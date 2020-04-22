@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "brooder Prototype",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 846975,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9921875,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
