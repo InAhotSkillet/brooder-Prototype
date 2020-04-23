@@ -8,10 +8,44 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.26640625,
+            "y": 0.41687979539641945,
+            "uniqueID": 295704,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 43
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 28
+                }
+            ]
+        },
+        {
+            "atomType": "RegularPolygon",
+            "name": "RegularPolygon",
+            "x": 0.36484375,
+            "y": 0.4833759590792839,
+            "uniqueID": 380791,
+            "ioValues": [
+                {
+                    "name": "number of sides",
+                    "ioValue": 6
+                },
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.515234375,
-            "y": 0.4525862068965517,
+            "x": 0.7015625,
+            "y": 0.5242966751918159,
             "ioValues": []
         }
     ],
